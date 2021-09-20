@@ -1,0 +1,4 @@
+stm32wbxx_ll_pwr.h:828:22:LL_PWR_EnableSRAM2Retention	4	static
+standby_stm32wb15.c:78:6:standby_hw_save	4	static
+standby_stm32wb15.c:93:6:standby_hw_restore	8	static
+standby_stm32wb15.c:134:10:standby_boot_mng	4	static
